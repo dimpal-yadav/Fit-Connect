@@ -27,11 +27,12 @@ Follow the branching model and create a branch from `dev` for your changes:
   - Use **Dart formatters** for Flutter code  
 - Keep commits atomic with clear messages.
 
-5. **Commit and Push Your Changes**  
+5. **Commit and Push Your Changes**
+- Pull all your Changes in `Dev` Branch.
 
 
 
-6. **Open a Pull Request (PR)**  
+7. **Open a Pull Request (PR)**  
 - Go to your fork on GitHub and open a PR targeting the `dev` branch on the main repository.  
 - Fill out the PR template found in `/docs/PR_TEMPLATE.md`.  
 - Clearly describe your changes and link any related issues.
