@@ -1,4 +1,4 @@
-# FitConnect – Development Guide
+# FitConnect
 
 ## 🚀 Project Overview
 
